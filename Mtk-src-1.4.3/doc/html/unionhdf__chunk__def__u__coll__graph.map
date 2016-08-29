@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$uniontag__model__info.html" title="{tag_model_info\n|+ nt\l+ ndim\l+ dims\l+ dim\l|}" alt="" coords="5,135,128,273"/>
+<area shape="rect" id="node4" href="$uniontag__comp__info.html" title="{tag_comp_info\n|+ quality\l+ force_baseline\l+ jpeg\l+ nt\l+ sign_ext\l+ fill_one\l+ start_bit\l+ bit_len\l+ nbit\l+ skp_size\l+ skphuff\l+ level\l+ deflate\l+ options_mask\l+ pixels_per_block\l+ pixels_per_scanline\l+ bits_per_pixel\l+ pixels\l+ szip\l|}" alt="" coords="152,5,315,403"/>
+</map>

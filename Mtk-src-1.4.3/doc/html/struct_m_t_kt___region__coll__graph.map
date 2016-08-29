@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_m_t_kt___extent.html" title="Geographic Extent." alt="" coords="5,177,117,279"/>
+<area shape="rect" id="node4" href="$struct_m_t_kt___geo_center.html" title="Geographic Center." alt="" coords="141,185,280,271"/>
+<area shape="rect" id="node6" href="$struct_m_t_kt___geo_coord.html" title="Geographic Coordinates." alt="" coords="145,6,276,109"/>
+</map>

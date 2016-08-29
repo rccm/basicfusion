@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_n_c__string.html" title="{NC_string\n|+ count\l+ len\l+ values\l|}" alt="" coords="5,23,91,143"/>
+<area shape="rect" id="node4" href="$struct_n_c__array.html" title="{NC_array\n|+ type\l+ len\l+ szof\l+ count\l+ values\l|}" alt="" coords="115,5,197,160"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$struct_value___node.html" title="{Value_Node\n|+ item\l+ parameter\l+ left_sibling\l+ right_sibling\l|}" alt="" coords="301,939,416,1077"/>
+<area shape="rect" id="node19" href="$struct_aggregate___node.html" title="{Aggregate_Node\n|+ name\l+ objClass\l+ comment\l+ kind\l+ appl1\l+ appl2\l+ parent\l+ left_sibling\l+ right_sibling\l+ first_child\l+ last_child\l+ first_parameter\l+ last_parameter\l|}" alt="" coords="5,861,147,1155"/>
+<area shape="rect" id="node7" href="$struct_value___data.html" title="{Value_Data\n|+ type\l+ valid\l+ format\l+ precision\l+ length\l+ integer\l+ real\l+ date_time\l+ string\l+ value\l|}" alt="" coords="409,519,516,761"/>
+<area shape="rect" id="node9" href="$struct_o_d_l_real.html" title="{ODLReal\n|+ number\l+ units\l|}" alt="" coords="303,262,388,365"/>
+<area shape="rect" id="node11" href="$struct_o_d_l_units.html" title="{ODLUnits\n|+ designator\l+ exponent\l+ next_field\l|}" alt="" coords="357,5,464,125"/>
+<area shape="rect" id="node14" href="$struct_o_d_l_integer.html" title="{ODLInteger\n|+ number\l+ units\l|}" alt="" coords="412,262,513,365"/>
+<area shape="rect" id="node17" href="$struct_o_d_l_date.html" title="{ODLDate\n|+ year\l+ doy\l+ month\l+ day\l+ zone_hours\l+ zone_minutes\l+ hours\l+ minutes\l+ seconds\l+ nanoseconds\l|}" alt="" coords="537,193,668,434"/>
+</map>

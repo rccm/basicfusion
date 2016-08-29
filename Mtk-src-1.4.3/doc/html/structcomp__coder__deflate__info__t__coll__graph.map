@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structz__stream__s.html" title="{z_stream_s\n|+ next_in\l+ avail_in\l+ total_in\l+ next_out\l+ avail_out\l+ total_out\l+ msg\l+ state\l+ zalloc\l+ zfree\l+ opaque\l+ data_type\l+ adler\l+ reserved\l|}" alt="" coords="55,158,161,469"/>
+<area shape="rect" id="node4" href="$structinternal__state.html" title="{internal_state\n|+ dummy\l|}" alt="" coords="49,5,167,91"/>
+</map>

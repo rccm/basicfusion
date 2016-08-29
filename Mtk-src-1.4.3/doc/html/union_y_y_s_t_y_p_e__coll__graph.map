@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_value___data.html" title="{Value_Data\n|+ type\l+ valid\l+ format\l+ precision\l+ length\l+ integer\l+ real\l+ date_time\l+ string\l+ value\l|}" alt="" coords="112,502,219,743"/>
+<area shape="rect" id="node4" href="$struct_o_d_l_real.html" title="{ODLReal\n|+ number\l+ units\l|}" alt="" coords="5,262,91,365"/>
+<area shape="rect" id="node6" href="$struct_o_d_l_units.html" title="{ODLUnits\n|+ designator\l+ exponent\l+ next_field\l|}" alt="" coords="60,5,167,125"/>
+<area shape="rect" id="node9" href="$struct_o_d_l_integer.html" title="{ODLInteger\n|+ number\l+ units\l|}" alt="" coords="115,262,216,365"/>
+<area shape="rect" id="node12" href="$struct_o_d_l_date.html" title="{ODLDate\n|+ year\l+ doy\l+ month\l+ day\l+ zone_hours\l+ zone_minutes\l+ hours\l+ minutes\l+ seconds\l+ nanoseconds\l|}" alt="" coords="240,193,371,434"/>
+</map>

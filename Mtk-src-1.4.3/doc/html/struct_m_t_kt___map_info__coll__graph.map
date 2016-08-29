@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_m_t_kt___misr_proj_param.html" title="MISR Projection Parameters." alt="" coords="5,246,165,522"/>
+<area shape="rect" id="node4" href="$struct_m_t_kt___geo_region.html" title="Geographic Region." alt="" coords="189,307,325,461"/>
+<area shape="rect" id="node6" href="$struct_m_t_kt___geo_coord.html" title="Geographic Coordinates." alt="" coords="192,6,323,109"/>
+<area shape="rect" id="node8" href="$struct_m_t_kt___som_region.html" title="SOM Region." alt="" coords="349,315,488,453"/>
+<area shape="rect" id="node10" href="$struct_m_t_kt___som_coord.html" title="SOM Coordinates." alt="" coords="352,6,485,109"/>
+</map>

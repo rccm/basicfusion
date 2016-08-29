@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structjpeg__c__prep__controller.html" title="{jpeg_c_prep_controller\n||+ JMETHOD()\l+ JMETHOD()\l}" alt="" coords="5,341,179,443"/>
+<area shape="rect" id="node4" href="$struct_j_q_u_a_n_t___t_b_l.html" title="{JQUANT_TBL\n|+ quantval\l+ sent_table\l|}" alt="" coords="235,6,344,109"/>
+<area shape="rect" id="node10" href="$structjpeg__component__info.html" title="{jpeg_component_info\n|+ component_id\l+ component_index\l+ h_samp_factor\l+ v_samp_factor\l+ quant_tbl_no\l+ dc_tbl_no\l+ ac_tbl_no\l+ width_in_blocks\l+ height_in_blocks\l+ DCT_scaled_size\l+ downsampled_width\l+ downsampled_height\l+ component_needed\l+ MCU_width\l+ MCU_height\l+ MCU_blocks\l+ MCU_sample_width\l+ last_col_width\l+ last_row_height\l+ quant_table\l+ dct_table\l|}" alt="" coords="349,176,525,608"/>
+<area shape="rect" id="node6" href="$struct_j_h_u_f_f___t_b_l.html" title="{JHUFF_TBL\n|+ bits\l+ huffval\l+ sent_table\l|}" alt="" coords="549,332,659,452"/>
+<area shape="rect" id="node8" href="$structjpeg__comp__master.html" title="{jpeg_comp_master\n|+ call_pass_startup\l+ is_last_pass\l|+ JMETHOD()\l+ JMETHOD()\l+ JMETHOD()\l}" alt="" coords="683,323,835,461"/>
+<area shape="rect" id="node13" href="$structjpeg__entropy__encoder.html" title="{jpeg_entropy_encoder\n||+ JMETHOD()\l+ JMETHOD()\l+ JMETHOD()\l}" alt="" coords="859,332,1032,452"/>
+<area shape="rect" id="node15" href="$structjpeg__downsampler.html" title="{jpeg_downsampler\n|+ need_context_rows\l|+ JMETHOD()\l+ JMETHOD()\l}" alt="" coords="1056,341,1227,443"/>
+<area shape="rect" id="node17" href="$structjpeg__c__coef__controller.html" title="{jpeg_c_coef_controller\n||+ JMETHOD()\l+ JMETHOD()\l}" alt="" coords="1251,341,1424,443"/>
+<area shape="rect" id="node19" href="$structjpeg__marker__writer.html" title="{jpeg_marker_writer\n||+ JMETHOD()\l+ JMETHOD()\l+ JMETHOD()\l+ JMETHOD()\l+ JMETHOD()\l+ JMETHOD()\l+ JMETHOD()\l}" alt="" coords="1448,297,1600,487"/>
+<area shape="rect" id="node21" href="$structjpeg__forward__dct.html" title="{jpeg_forward_dct\n||+ JMETHOD()\l+ JMETHOD()\l}" alt="" coords="1624,341,1763,443"/>
+<area shape="rect" id="node23" href="$structjpeg__destination__mgr.html" title="{jpeg_destination_mgr\n|+ next_output_byte\l+ free_in_buffer\l|+ JMETHOD()\l+ JMETHOD()\l+ JMETHOD()\l}" alt="" coords="1787,323,1952,461"/>
+<area shape="rect" id="node25" href="$structjpeg__c__main__controller.html" title="{jpeg_c_main_controller\n||+ JMETHOD()\l+ JMETHOD()\l}" alt="" coords="1976,341,2152,443"/>
+<area shape="rect" id="node27" href="$structjpeg__scan__info.html" title="{jpeg_scan_info\n|+ comps_in_scan\l+ component_index\l+ Ss\l+ Se\l+ Ah\l+ Al\l|}" alt="" coords="2176,306,2331,478"/>
+<area shape="rect" id="node29" href="$structjpeg__color__converter.html" title="{jpeg_color_converter\n||+ JMETHOD()\l+ JMETHOD()\l}" alt="" coords="2355,341,2517,443"/>
+</map>

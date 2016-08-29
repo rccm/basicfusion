@@ -1,0 +1,17 @@
+#!/usr/bin/env sh
+
+PREFIX=/tmp
+
+./download_libraries
+./install_hdf+hdfeos
+source $PREFIX/usr/local/hdfeoslibs/bin/hdfeos_env.sh
+cd Mtk
+MTK_INSTALLDIR=$PREFIX/Library/Mtk-1.4.3
+export MTK_INSTALLDIR
+make DEBUG=t cmdutil
+make python
+cd wrappers/python
+python setup.py install
+cd ../..
+make install
+

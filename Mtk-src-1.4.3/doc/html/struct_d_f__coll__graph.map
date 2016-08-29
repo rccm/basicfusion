@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_d_fdd.html" title="{DFdd\n|+ tag\l+ ref\l+ offset\l+ length\l|}" alt="" coords="5,6,83,143"/>
+<area shape="rect" id="node4" href="$struct_d_fdle.html" title="{DFdle\n|+ next\l+ ddh\l+ dd\l|}" alt="" coords="107,211,173,331"/>
+<area shape="rect" id="node6" href="$struct_d_fddh.html" title="{DFddh\n|+ dds\l+ next\l|}" alt="" coords="107,23,173,126"/>
+</map>

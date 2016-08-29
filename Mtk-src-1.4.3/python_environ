@@ -1,0 +1,7 @@
+setenv MTKHOME /mnt/a/u/sciteam/gyzhao/Mtk-src-1.4.3
+setenv PYTHONPATH `echo ${MTKHOME}/wrappers/python/build/lib.*`
+if ($?LD_LIBRARY_PATH) then
+	setenv LD_LIBRARY_PATH "${LD_LIBRARY_PATH}:${MTKHOME}/lib"
+else
+	setenv LD_LIBRARY_PATH "${MTKHOME}/lib"
+endif
